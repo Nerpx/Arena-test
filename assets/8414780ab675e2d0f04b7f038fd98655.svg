@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="742.6839813758485" height="638.7300629188172" viewBox="-0.453882792073125 -0.4999826932724658 742.6839813758485 638.7300629188172">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#393055" stop-opacity="0"/>
+      <stop offset="1" stop-color="#393055" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#FFFFCC" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFCC" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,261,277" y2="637" x2="261" x1="261" y1="332" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#393055" stop-opacity="0"/>
+      <stop offset="1" stop-color="#393055" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_2-.689818024635315,-2.158712387084961,-1.6839123964309692,-1.3242985010147095,151.85,738.8" y2="338.1412" x2="0.2659" x1="288.7253" y1="563.9443" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFCC" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFCC" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.2866754080168903" fill="url(#grad_1-,0,0,1,261,277)" stroke="none" d="M 261 332 L 741 332 L 741 637 L 261 637 L 261 332 Z " stroke-width="1"/>
+  <path id="ID0.11645256821066141" fill="url(#grad_2-.689818024635315,-2.158712387084961,-1.6839123964309692,-1.3242985010147095,151.85,738.8)" stroke="none" d="M 288.7253 563.9443 L 552.3369 227.1852 L 264.3879 0.7301 L 0.7762 337.4893 L 288.7253 563.9443 Z " stroke-width="2.4601654578797705"/>
+</svg>
